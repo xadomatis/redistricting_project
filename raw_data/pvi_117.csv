@@ -1,0 +1,436 @@
+District,PVI,Representative
+Alabama 1,R+16,Republican
+Alabama 2,R+17,Republican
+Alabama 3,R+18,Republican
+Alabama 4,R+34,Republican
+Alabama 5,R+17,Republican
+Alabama 6,R+22,Republican
+Alabama 7,D+19,Democratic
+Alaska at-large,R+9,Republican
+Arizona 1,R+2,Democratic
+Arizona 2,D+2,Democratic
+Arizona 3,D+13,Democratic
+Arizona 4,R+22,Republican
+Arizona 5,R+11,Republican
+Arizona 6,R+5,Republican
+Arizona 7,D+24,Democratic
+Arizona 8,R+11,Republican
+Arizona 9,D+9,Democratic
+Arkansas 1,R+21,Republican
+Arkansas 2,R+7,Republican
+Arkansas 3,R+17,Republican
+Arkansas 4,R+20,Republican
+California 1,R+11,Republican
+California 2,D+23,Democratic
+California 3,D+5,Democratic
+California 4,R+8,Republican
+California 5,D+22,Democratic
+California 6,D+21,Democratic
+California 7,D+5,Democratic
+California 8,R+8,Republican
+California 9,D+8,Democratic
+California 10,EVEN,Democratic
+California 11,D+24,Democratic
+California 12,D+38,Democratic
+California 13,D+40,Democratic
+California 14,D+28,Democratic
+California 15,D+22,Democratic
+California 16,D+9,Democratic
+California 17,D+24,Democratic
+California 18,D+27,Democratic
+California 19,D+23,Democratic
+California 20,D+23,Democratic
+California 21,D+5,Republican
+California 22,R+6,Republican
+California 23,R+12,Republican
+California 24,D+10,Democratic
+California 25,D+3,Republican
+California 26,D+10,Democratic
+California 27,D+18,Democratic
+California 28,D+23,Democratic
+California 29,D+27,Democratic
+California 30,D+20,Democratic
+California 31,D+9,Democratic
+California 32,D+17,Democratic
+California 33,D+19,Democratic
+California 34,D+34,Democratic
+California 35,D+17,Democratic
+California 36,D+4,Democratic
+California 37,D+36,Democratic
+California 38,D+17,Democratic
+California 39,D+3,Republican
+California 40,D+31,Democratic
+California 41,D+12,Democratic
+California 42,R+7,Republican
+California 43,D+29,Democratic
+California 44,D+32,Democratic
+California 45,D+3,Democratic
+California 46,D+16,Democratic
+California 47,D+14,Democratic
+California 48,R+1,Republican
+California 49,D+4,Democratic
+California 50,R+8,Republican
+California 51,D+20,Democratic
+California 52,D+12,Democratic
+California 53,D+17,Democratic
+Colorado 1,D+24,Democratic
+Colorado 2,D+12,Democratic
+Colorado 3,R+6,Republican
+Colorado 4,R+12,Republican
+Colorado 5,R+12,Republican
+Colorado 6,D+6,Democratic
+Colorado 7,D+7,Democratic
+Connecticut 1,D+11,Democratic
+Connecticut 2,D+2,Democratic
+Connecticut 3,D+8,Democratic
+Connecticut 4,D+12,Democratic
+Connecticut 5,D+2,Democratic
+Delaware at-large,D+6,Democratic
+Florida 1,R+20,Republican
+Florida 2,R+20,Republican
+Florida 3,R+9,Republican
+Florida 4,R+14,Republican
+Florida 5,D+12,Democratic
+Florida 6,R+10,Republican
+Florida 7,D+3,Democratic
+Florida 8,R+12,Republican
+Florida 9,D+3,Democratic
+Florida 10,D+12,Democratic
+Florida 11,R+18,Republican
+Florida 12,R+11,Republican
+Florida 13,EVEN,Democratic
+Florida 14,D+7,Democratic
+Florida 15,R+6,Republican
+Florida 16,R+7,Republican
+Florida 17,R+16,Republican
+Florida 18,R+6,Republican
+Florida 19,R+12,Republican
+Florida 20,D+28,Democratic
+Florida 21,D+8,Democratic
+Florida 22,D+6,Democratic
+Florida 23,D+9,Democratic
+Florida 24,D+28,Democratic
+Florida 25,R+8,Republican
+Florida 26,D+1,Republican
+Florida 27,D+4,Republican
+Georgia 1,R+9,Republican
+Georgia 2,D+4,Democratic
+Georgia 3,R+16,Republican
+Georgia 4,D+27,Democratic
+Georgia 5,D+36,Democratic
+Georgia 6,D+1,Democratic
+Georgia 7,R+2,Democratic
+Georgia 8,R+15,Republican
+Georgia 9,R+30,Republican
+Georgia 10,R+13,Republican
+Georgia 11,R+12,Republican
+Georgia 12,R+9,Republican
+Georgia 13,D+23,Democratic
+Georgia 14,R+28,Republican
+Hawaii 1,D+14,Democratic
+Hawaii 2,D+15,Democratic
+Idaho 1,R+22,Republican
+Idaho 2,R+15,Republican
+Illinois 1,D+25,Democratic
+Illinois 2,D+28,Democratic
+Illinois 3,D+6,Democratic
+Illinois 4,D+33,Democratic
+Illinois 5,D+22,Democratic
+Illinois 6,D+3,Democratic
+Illinois 7,D+37,Democratic
+Illinois 8,D+9,Democratic
+Illinois 9,D+21,Democratic
+Illinois 10,D+14,Democratic
+Illinois 11,D+11,Democratic
+Illinois 12,R+9,Republican
+Illinois 13,R+4,Republican
+Illinois 14,R+2,Democratic
+Illinois 15,R+26,Republican
+Illinois 16,R+10,Republican
+Illinois 17,R+2,Democratic
+Illinois 18,R+15,Republican
+Indiana 1,D+4,Democratic
+Indiana 2,R+13,Republican
+Indiana 3,R+19,Republican
+Indiana 4,R+18,Republican
+Indiana 5,R+5,Republican
+Indiana 6,R+22,Republican
+Indiana 7,D+11,Democratic
+Indiana 8,R+19,Republican
+Indiana 9,R+15,Republican
+Iowa 1,R+4,Republican
+Iowa 2,R+4,Republican
+Iowa 3,R+3,Democratic
+Iowa 4,R+16,Republican
+Kansas 1,R+24,Republican
+Kansas 2,R+10,Republican
+Kansas 3,D+1,Democratic
+Kansas 4,R+15,Republican
+Kentucky 1,R+26,Republican
+Kentucky 2,R+22,Republican
+Kentucky 3,D+8,Democratic
+Kentucky 4,R+19,Republican
+Kentucky 5,R+33,Republican
+Kentucky 6,R+8,Republican
+Louisiana 1,R+22,Republican
+Louisiana 2,D+25,Democratic
+Louisiana 3,R+21,Republican
+Louisiana 4,R+14,Republican
+Louisiana 5,R+17,Republican
+Louisiana 6,R+18,Republican
+Maine 1,D+8,Democratic
+Maine 2,R+6,Democratic
+Maryland 1,R+14,Republican
+Maryland 2,D+13,Democratic
+Maryland 3,D+16,Democratic
+Maryland 4,D+29,Democratic
+Maryland 5,D+16,Democratic
+Maryland 6,D+8,Democratic
+Maryland 7,D+27,Democratic
+Maryland 8,D+17,Democratic
+Massachusetts 1,D+10,Democratic
+Massachusetts 2,D+10,Democratic
+Massachusetts 3,D+12,Democratic
+Massachusetts 4,D+13,Democratic
+Massachusetts 5,D+23,Democratic
+Massachusetts 6,D+10,Democratic
+Massachusetts 7,D+35,Democratic
+Massachusetts 8,D+14,Democratic
+Massachusetts 9,D+6,Democratic
+Michigan 1,R+12,Republican
+Michigan 2,R+9,Republican
+Michigan 3,R+5,Republican
+Michigan 4,R+14,Republican
+Michigan 5,D+1,Democratic
+Michigan 6,R+5,Republican
+Michigan 7,R+10,Republican
+Michigan 8,R+4,Democratic
+Michigan 9,D+4,Democratic
+Michigan 10,R+18,Republican
+Michigan 11,R+2,Democratic
+Michigan 12,D+13,Democratic
+Michigan 13,D+29,Democratic
+Michigan 14,D+29,Democratic
+Minnesota 1,R+8,Republican
+Minnesota 2,EVEN,Democratic
+Minnesota 3,D+6,Democratic
+Minnesota 4,D+16,Democratic
+Minnesota 5,D+29,Democratic
+Minnesota 6,R+14,Republican
+Minnesota 7,R+17,Republican
+Minnesota 8,R+10,Republican
+Mississippi 1,R+18,Republican
+Mississippi 2,D+13,Democratic
+Mississippi 3,R+13,Republican
+Mississippi 4,R+22,Republican
+Missouri 1,D+29,Democratic
+Missouri 2,R+4,Republican
+Missouri 3,R+21,Republican
+Missouri 4,R+20,Republican
+Missouri 5,D+7,Democratic
+Missouri 6,R+18,Republican
+Missouri 7,R+24,Republican
+Missouri 8,R+30,Republican
+Montana at-large,R+11,Republican
+Nebraska 1,R+11,Republican
+Nebraska 2,R+1,Republican
+Nebraska 3,R+30,Republican
+Nevada 1,D+12,Democratic
+Nevada 2,R+8,Republican
+Nevada 3,R+2,Democratic
+Nevada 4,D+1,Democratic
+New Hampshire 1,R+1,Democratic
+New Hampshire 2,D+1,Democratic
+New Jersey 1,D+11,Democratic
+New Jersey 2,R+4,Republican
+New Jersey 3,R+3,Democratic
+New Jersey 4,R+8,Republican
+New Jersey 5,R+1,Democratic
+New Jersey 6,D+6,Democratic
+New Jersey 7,D+1,Democratic
+New Jersey 8,D+24,Democratic
+New Jersey 9,D+13,Democratic
+New Jersey 10,D+34,Democratic
+New Jersey 11,EVEN,Democratic
+New Jersey 12,D+16,Democratic
+New Mexico 1,D+9,Democratic
+New Mexico 2,R+8,Republican
+New Mexico 3,D+7,Democratic
+New York 1,R+6,Republican
+New York 2,R+5,Republican
+New York 3,D+3,Democratic
+New York 4,D+4,Democratic
+New York 5,D+34,Democratic
+New York 6,D+13,Democratic
+New York 7,D+34,Democratic
+New York 8,D+33,Democratic
+New York 9,D+32,Democratic
+New York 10,D+27,Democratic
+New York 11,R+7,Republican
+New York 12,D+34,Democratic
+New York 13,D+40,Democratic
+New York 14,D+25,Democratic
+New York 15,D+39,Democratic
+New York 16,D+25,Democratic
+New York 17,D+9,Democratic
+New York 18,R+1,Democratic
+New York 19,R+3,Democratic
+New York 20,D+7,Democratic
+New York 21,R+8,Republican
+New York 22,R+9,Republican
+New York 23,R+9,Republican
+New York 24,D+2,Republican
+New York 25,D+8,Democratic
+New York 26,D+10,Democratic
+New York 27,R+12,Republican
+North Carolina 1,D+3,Democratic
+North Carolina 2,D+12,Democratic
+North Carolina 3,R+14,Republican
+North Carolina 4,D+16,Democratic
+North Carolina 5,R+20,Republican
+North Carolina 6,D+10,Democratic
+North Carolina 7,R+11,Republican
+North Carolina 8,R+6,Republican
+North Carolina 9,R+6,Republican
+North Carolina 10,R+21,Republican
+North Carolina 11,R+9,Republican
+North Carolina 12,D+19,Democratic
+North Carolina 13,R+20,Republican
+North Dakota at-large,R+20,Republican
+Ohio 1,R+4,Republican
+Ohio 2,R+9,Republican
+Ohio 3,D+19,Democratic
+Ohio 4,R+20,Republican
+Ohio 5,R+15,Republican
+Ohio 6,R+24,Republican
+Ohio 7,R+18,Republican
+Ohio 8,R+19,Republican
+Ohio 9,D+9,Democratic
+Ohio 10,R+5,Republican
+Ohio 11,D+30,Democratic
+Ohio 12,R+6,Republican
+Ohio 13,D+1,Democratic
+Ohio 14,R+5,Republican
+Ohio 15,R+9,Republican
+Ohio 16,R+10,Republican
+Oklahoma 1,R+15,Republican
+Oklahoma 2,R+29,Republican
+Oklahoma 3,R+29,Republican
+Oklahoma 4,R+20,Republican
+Oklahoma 5,R+7,Republican
+Oregon 1,D+12,Democratic
+Oregon 2,R+11,Republican
+Oregon 3,D+24,Democratic
+Oregon 4,R+1,Democratic
+Oregon 5,D+2,Democratic
+Pennsylvania 1,EVEN,Republican
+Pennsylvania 2,D+21,Democratic
+Pennsylvania 3,D+41,Democratic
+Pennsylvania 4,D+9,Democratic
+Pennsylvania 5,D+13,Democratic
+Pennsylvania 6,D+5,Democratic
+Pennsylvania 7,EVEN,Democratic
+Pennsylvania 8,R+5,Democratic
+Pennsylvania 9,R+18,Republican
+Pennsylvania 10,R+5,Republican
+Pennsylvania 11,R+14,Republican
+Pennsylvania 12,R+20,Republican
+Pennsylvania 13,R+25,Republican
+Pennsylvania 14,R+16,Republican
+Pennsylvania 15,R+24,Republican
+Pennsylvania 16,R+12,Republican
+Pennsylvania 17,R+2,Democratic
+Pennsylvania 18,D+13,Democratic
+Rhode Island 1,D+12,Democratic
+Rhode Island 2,D+4,Democratic
+South Carolina 1,R+7,Republican
+South Carolina 2,R+9,Republican
+South Carolina 3,R+21,Republican
+South Carolina 4,R+14,Republican
+South Carolina 5,R+11,Republican
+South Carolina 6,D+17,Democratic
+South Carolina 7,R+11,Republican
+South Dakota at-large,R+16,Republican
+Tennessee 1,R+30,Republican
+Tennessee 2,R+18,Republican
+Tennessee 3,R+19,Republican
+Tennessee 4,R+22,Republican
+Tennessee 5,D+9,Democratic
+Tennessee 6,R+26,Republican
+Tennessee 7,R+21,Republican
+Tennessee 8,R+19,Republican
+Tennessee 9,D+28,Democratic
+Texas 1,R+25,Republican
+Texas 2,R+4,Republican
+Texas 3,R+6,Republican
+Texas 4,R+28,Republican
+Texas 5,R+15,Republican
+Texas 6,R+6,Republican
+Texas 7,D+1,Democratic
+Texas 8,R+25,Republican
+Texas 9,D+27,Democratic
+Texas 10,R+5,Republican
+Texas 11,R+32,Republican
+Texas 12,R+15,Republican
+Texas 13,R+33,Republican
+Texas 14,R+12,Republican
+Texas 15,D+3,Democratic
+Texas 16,D+18,Democratic
+Texas 17,R+9,Republican
+Texas 18,D+26,Democratic
+Texas 19,R+26,Republican
+Texas 20,D+13,Democratic
+Texas 21,R+5,Republican
+Texas 22,R+4,Republican
+Texas 23,R+1,Republican
+Texas 24,R+2,Republican
+Texas 25,R+8,Republican
+Texas 26,R+12,Republican
+Texas 27,R+14,Republican
+Texas 28,D+5,Democratic
+Texas 29,D+19,Democratic
+Texas 30,D+29,Democratic
+Texas 31,R+6,Republican
+Texas 32,D+1,Democratic
+Texas 33,D+23,Democratic
+Texas 34,D+5,Democratic
+Texas 35,D+17,Democratic
+Texas 36,R+25,Republican
+Utah 1,R+20,Republican
+Utah 2,R+10,Republican
+Utah 3,R+17,Republican
+Utah 4,R+6,Republican
+Vermont at-large,D+15,Democratic
+Virginia 1,R+6,Republican
+Virginia 2,R+1,Democratic
+Virginia 3,D+16,Democratic
+Virginia 4,D+10,Democratic
+Virginia 5,R+7,Republican
+Virginia 6,R+14,Republican
+Virginia 7,R+3,Democratic
+Virginia 8,D+27,Democratic
+Virginia 9,R+23,Republican
+Virginia 10,D+6,Democratic
+Virginia 11,D+19,Democratic
+Washington 1,D+8,Democratic
+Washington 2,D+11,Democratic
+Washington 3,R+5,Republican
+Washington 4,R+13,Republican
+Washington 5,R+8,Republican
+Washington 6,D+6,Democratic
+Washington 7,D+36,Democratic
+Washington 8,D+1,Democratic
+Washington 9,D+23,Democratic
+Washington 10,D+5,Democratic
+West Virginia 1,R+22,Republican
+West Virginia 2,R+20,Republican
+West Virginia 3,R+27,Republican
+Wisconsin 1,R+7,Republican
+Wisconsin 2,D+18,Democratic
+Wisconsin 3,R+4,Democratic
+Wisconsin 4,D+25,Democratic
+Wisconsin 5,R+11,Republican
+Wisconsin 6,R+10,Republican
+Wisconsin 7,R+12,Republican
+Wisconsin 8,R+10,Republican
+Wyoming at-large,R+26,Republican
