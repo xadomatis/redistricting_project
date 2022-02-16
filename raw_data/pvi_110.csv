@@ -1,0 +1,437 @@
+State  ,District,PVI  ,"Party
+in Congress  "
+Alabama,1st,R+12,Republican
+Alabama,2nd,R+13,Republican
+Alabama,3rd,R+4,Republican
+Alabama,4th,R+16,Republican
+Alabama,5th,R+6,Democratic
+Alabama,6th,R+25,Republican
+Alabama,7th,D+17,Democratic
+Alaska,At-large,R+14,Republican
+Arizona,1st,R+2,Republican
+Arizona,2nd,R+9,Republican
+Arizona,3rd,R+6,Republican
+Arizona,4th,D+14,Democratic
+Arizona,5th,R+4,Democratic
+Arizona,6th,R+12,Republican
+Arizona,7th,D+10,Democratic
+Arizona,8th,R+1,Democratic
+Arkansas,1st,D+1,Democratic
+Arkansas,2nd,R+0,Democratic
+Arkansas,3rd,R+11,Republican
+Arkansas,4th,D+0,Democratic
+California,1st,D+10,Democratic
+California,2nd,R+13,Republican
+California,3rd,R+7,Republican
+California,4th,R+11,Republican
+California,5th,D+14,Democratic
+California,6th,D+21,Democratic
+California,7th,D+19,Democratic
+California,8th,D+36,Democratic
+California,9th,D+38,Democratic
+California,10th,D+9,Democratic
+California,11th,R+3,Democratic
+California,12th,D+22,Democratic
+California,13th,D+22,Democratic
+California,14th,D+18,Democratic
+California,15th,D+14,Democratic
+California,16th,D+16,Democratic
+California,17th,D+17,Democratic
+California,18th,D+3,Democratic
+California,19th,R+10,Republican
+California,20th,D+5,Democratic
+California,21st,R+13,Republican
+California,22nd,R+16,Republican
+California,23rd,D+9,Democratic
+California,24th,R+5,Republican
+California,25th,R+7,Republican
+California,26th,R+4,Republican
+California,27th,D+13,Democratic
+California,28th,D+25,Democratic
+California,29th,D+12,Democratic
+California,30th,D+20,Democratic
+California,31st,D+30,Democratic
+California,32nd,D+17,Democratic
+California,33rd,D+36,Democratic
+California,34th,D+23,Democratic
+California,35th,D+33,Democratic
+California,36th,D+11,Democratic
+California,37th,D+27,Democratic
+California,38th,D+20,Democratic
+California,39th,D+13,Democratic
+California,40th,R+8,Republican
+California,41st,R+9,Republican
+California,42nd,R+10,Republican
+California,43rd,D+13,Democratic
+California,44th,R+6,Republican
+California,45th,R+3,Republican
+California,46th,R+6,Republican
+California,47th,D+5,Democratic
+California,48th,R+8,Republican
+California,49th,R+10,Republican
+California,50th,R+5,Republican
+California,51st,D+7,Democratic
+California,52nd,R+9,Republican
+California,53rd,D+12,Democratic
+Colorado,1st,D+18,Democratic
+Colorado,2nd,D+8,Democratic
+Colorado,3rd,R+6,Democratic
+Colorado,4th,R+9,Republican
+Colorado,5th,R+16,Republican
+Colorado,6th,R+10,Republican
+Colorado,7th,D+2,Democratic
+Connecticut,1st,D+14,Democratic
+Connecticut,2nd,D+8,Democratic
+Connecticut,3rd,D+12,Democratic
+Connecticut,4th,D+5,Republican
+Connecticut,5th,D+4,Democratic
+Delaware,At-large,D+7,Republican
+Florida,1st,R+19,Republican
+Florida,2nd,R+2,Democratic
+Florida,3rd,D+16,Democratic
+Florida,4th,R+16,Republican
+Florida,5th,R+5,Republican
+Florida,6th,R+8,Republican
+Florida,7th,R+3,Republican
+Florida,8th,R+3,Republican
+Florida,9th,R+4,Republican
+Florida,10th,D+1,Republican
+Florida,11th,D+11,Democratic
+Florida,12th,R+5,Republican
+Florida,13th,R+4,Republican
+Florida,14th,R+10,Republican
+Florida,15th,R+4,Republican
+Florida,16th,R+2,Democratic
+Florida,17th,D+35,Democratic
+Florida,18th,R+4,Republican
+Florida,19th,D+21,Democratic
+Florida,20th,D+18,Democratic
+Florida,21st,R+6,Republican
+Florida,22nd,D+4,Democratic
+Florida,23rd,D+29,Democratic
+Florida,24th,R+3,Republican
+Florida,25th,R+4,Republican
+Georgia,1st,R+14,Republican
+Georgia,2nd,D+2,Democratic
+Georgia,3rd,R+19,Republican
+Georgia,4th,D+22,Democratic
+Georgia,5th,D+25,Democratic
+Georgia,6th,R+19,Republican
+Georgia,7th,R+19,Republican
+Georgia,8th,R+8,Democratic
+Georgia,9th,R+24,Republican
+Georgia,10th,R+14,Republican
+Georgia,11th,R+18,Republican
+Georgia,12th,D+2,Democratic
+Georgia,13th,D+10,Democratic
+Hawaii,1st,D+7,Democratic
+Hawaii,2nd,D+10,Democratic
+Idaho,1st,R+19,Republican
+Idaho,2nd,R+23,Republican
+Illinois,1st,D+35,Democratic
+Illinois,2nd,D+35,Democratic
+Illinois,3rd,D+10,Democratic
+Illinois,4th,D+31,Democratic
+Illinois,5th,D+18,Democratic
+Illinois,6th,R+3,Republican
+Illinois,7th,D+35,Democratic
+Illinois,8th,R+5,Democratic
+Illinois,9th,D+20,Democratic
+Illinois,10th,D+4,Republican
+Illinois,11th,R+1,Republican
+Illinois,12th,D+5,Democratic
+Illinois,13th,R+5,Republican
+Illinois,14th,R+5,Democratic
+Illinois,15th,R+6,Republican
+Illinois,16th,R+4,Republican
+Illinois,17th,D+5,Democratic
+Illinois,18th,R+5,Republican
+Illinois,19th,R+8,Republican
+Indiana,1st,D+8,Democratic
+Indiana,2nd,R+4,Democratic
+Indiana,3rd,R+16,Republican
+Indiana,4th,R+17,Republican
+Indiana,5th,R+20,Republican
+Indiana,6th,R+11,Republican
+Indiana,7th,D+9,Democratic
+Indiana,8th,R+9,Democratic
+Indiana,9th,R+7,Democratic
+Iowa,1st,D+5,Democratic
+Iowa,2nd,D+7,Democratic
+Iowa,3rd,D+1,Democratic
+Iowa,4th,D+0,Republican
+Iowa,5th,R+8,Republican
+Kansas,1st,R+20,Republican
+Kansas,2nd,R+7,Democratic
+Kansas,3rd,R+4,Democratic
+Kansas,4th,R+12,Republican
+Kentucky,1st,R+10,Republican
+Kentucky,2nd,R+13,Republican
+Kentucky,3rd,D+2,Democratic
+Kentucky,4th,R+12,Republican
+Kentucky,5th,R+8,Republican
+Kentucky,6th,R+7,Democratic
+Louisiana,1st,R+18,Republican
+Louisiana,2nd,D+28,Democratic
+Louisiana,3rd,R+5,Democratic
+Louisiana,4th,R+7,Republican
+Louisiana,5th,R+10,Republican
+Louisiana,6th,R+7,Democratic
+Louisiana,7th,R+7,Republican
+Maine,1st,D+6,Democratic
+Maine,2nd,D+4,Democratic
+Maryland,1st,R+10,Republican
+Maryland,2nd,D+8,Democratic
+Maryland,3rd,D+7,Democratic
+Maryland,4th,D+30,Democratic
+Maryland,5th,D+9,Democratic
+Maryland,6th,R+13,Republican
+Maryland,7th,D+25,Democratic
+Maryland,8th,D+20,Democratic
+Massachusetts,1st,D+15,Democratic
+Massachusetts,2nd,D+11,Democratic
+Massachusetts,3rd,D+11,Democratic
+Massachusetts,4th,D+17,Democratic
+Massachusetts,5th,D+9,Democratic
+Massachusetts,6th,D+10,Democratic
+Massachusetts,7th,D+18,Democratic
+Massachusetts,8th,D+31,Democratic
+Massachusetts,9th,D+15,Democratic
+Massachusetts,10th,D+8,Democratic
+Michigan,1st,R+2,Democratic
+Michigan,2nd,R+9,Republican
+Michigan,3rd,R+9,Republican
+Michigan,4th,R+3,Republican
+Michigan,5th,D+12,Democratic
+Michigan,6th,R+2,Republican
+Michigan,7th,R+2,Republican
+Michigan,8th,R+2,Republican
+Michigan,9th,R+0,Republican
+Michigan,10th,R+4,Republican
+Michigan,11th,R+1,Republican
+Michigan,12th,D+13,Democratic
+Michigan,13th,D+32,Democratic
+Michigan,14th,D+33,Democratic
+Michigan,15th,D+13,Democratic
+Minnesota,1st,R+1,Democratic
+Minnesota,2nd,R+3,Republican
+Minnesota,3rd,R+1,Republican
+Minnesota,4th,D+13,Democratic
+Minnesota,5th,D+21,Democratic
+Minnesota,6th,R+5,Republican
+Minnesota,7th,R+6,Democratic
+Minnesota,8th,D+4,Democratic
+Mississippi,1st,R+10,Democratic
+Mississippi,2nd,D+10,Democratic
+Mississippi,3rd,R+13,Republican
+Mississippi,4th,R+16,Democratic
+Missouri,1st,D+26,Democratic
+Missouri,2nd,R+9,Republican
+Missouri,3rd,D+8,Democratic
+Missouri,4th,R+11,Democratic
+Missouri,5th,D+12,Democratic
+Missouri,6th,R+5,Republican
+Missouri,7th,R+14,Republican
+Missouri,8th,R+11,Republican
+Missouri,9th,R+7,Republican
+Montana,At-large,R+11,Republican
+Nebraska,1st,R+11,Republican
+Nebraska,2nd,R+9,Republican
+Nebraska,3rd,R+24,Republican
+Nevada,1st,D+9,Democratic
+Nevada,2nd,R+8,Republican
+Nevada,3rd,D+1,Republican
+New Hampshire,1st,R+0,Democratic
+New Hampshire,2nd,D+3,Democratic
+New Jersey,1st,D+14,Democratic
+New Jersey,2nd,D+4,Republican
+New Jersey,3rd,D+3,Republican
+New Jersey,4th,R+1,Republican
+New Jersey,5th,R+4,Republican
+New Jersey,6th,D+12,Democratic
+New Jersey,7th,R+1,Republican
+New Jersey,8th,D+12,Democratic
+New Jersey,9th,D+13,Democratic
+New Jersey,10th,D+34,Democratic
+New Jersey,11th,R+6,Republican
+New Jersey,12th,D+8,Democratic
+New Jersey,13th,D+23,Democratic
+New Mexico,1st,D+2,Republican
+New Mexico,2nd,R+6,Republican
+New Mexico,3rd,D+6,Democratic
+New York,1st,D+3,Democratic
+New York,2nd,D+7,Democratic
+New York,3rd,D+2,Republican
+New York,4th,D+9,Democratic
+New York,5th,D+18,Democratic
+New York,6th,D+38,Democratic
+New York,7th,D+28,Democratic
+New York,8th,D+28,Democratic
+New York,9th,D+14,Democratic
+New York,10th,D+41,Democratic
+New York,11th,D+40,Democratic
+New York,12th,D+34,Democratic
+New York,13th,D+1,Republican
+New York,14th,D+26,Democratic
+New York,15th,D+43,Democratic
+New York,16th,D+43,Democratic
+New York,17th,D+21,Democratic
+New York,18th,D+10,Democratic
+New York,19th,R+1,Democratic
+New York,20th,R+3,Democratic
+New York,21st,D+9,Democratic
+New York,22nd,D+6,Democratic
+New York,23rd,R+0,Republican
+New York,24th,R+1,Democratic
+New York,25th,D+3,Republican
+New York,26th,R+3,Republican
+New York,27th,D+7,Democratic
+New York,28th,D+15,Democratic
+New York,29th,R+5,Republican
+North Carolina,1st,D+9,Democratic
+North Carolina,2nd,R+3,Democratic
+North Carolina,3rd,R+15,Republican
+North Carolina,4th,D+6,Democratic
+North Carolina,5th,R+15,Republican
+North Carolina,6th,R+17,Republican
+North Carolina,7th,R+3,Democratic
+North Carolina,8th,R+3,Republican
+North Carolina,9th,R+12,Republican
+North Carolina,10th,R+15,Republican
+North Carolina,11th,R+7,Democratic
+North Carolina,12th,D+11,Democratic
+North Carolina,13th,D+2,Democratic
+North Dakota,At-large,R+13,Democratic
+Ohio,1st,R+1,Republican
+Ohio,2nd,R+13,Republican
+Ohio,3rd,R+3,Republican
+Ohio,4th,R+14,Republican
+Ohio,5th,R+10,Republican
+Ohio,6th,D+0,Democratic
+Ohio,7th,R+6,Republican
+Ohio,8th,R+12,Republican
+Ohio,9th,D+9,Democratic
+Ohio,10th,D+6,Democratic
+Ohio,11th,D+33,Democratic
+Ohio,12th,R+1,Republican
+Ohio,13th,D+6,Democratic
+Ohio,14th,R+2,Republican
+Ohio,15th,R+1,Republican
+Ohio,16th,R+4,Republican
+Ohio,17th,D+14,Democratic
+Ohio,18th,R+6,Democratic
+Oklahoma,1st,R+13,Republican
+Oklahoma,2nd,R+5,Democratic
+Oklahoma,3rd,R+18,Republican
+Oklahoma,4th,R+13,Republican
+Oklahoma,5th,R+12,Republican
+Oregon,1st,D+6,Democratic
+Oregon,2nd,R+11,Republican
+Oregon,3rd,D+18,Democratic
+Oregon,4th,D+0,Democratic
+Oregon,5th,D+1,Democratic
+Pennsylvania,1st,D+36,Democratic
+Pennsylvania,2nd,D+39,Democratic
+Pennsylvania,3rd,R+2,Republican
+Pennsylvania,4th,R+3,Democratic
+Pennsylvania,5th,R+10,Republican
+Pennsylvania,6th,D+2,Republican
+Pennsylvania,7th,D+4,Democratic
+Pennsylvania,8th,D+3,Democratic
+Pennsylvania,9th,R+15,Republican
+Pennsylvania,10th,R+8,Democratic
+Pennsylvania,11th,D+5,Democratic
+Pennsylvania,12th,D+5,Democratic
+Pennsylvania,13th,D+8,Democratic
+Pennsylvania,14th,D+22,Democratic
+Pennsylvania,15th,D+2,Republican
+Pennsylvania,16th,R+11,Republican
+Pennsylvania,17th,R+7,Democratic
+Pennsylvania,18th,R+2,Republican
+Pennsylvania,19th,R+12,Republican
+Rhode Island,1st,D+16,Democratic
+Rhode Island,2nd,D+13,Democratic
+South Carolina,1st,R+10,Republican
+South Carolina,2nd,R+9,Republican
+South Carolina,3rd,R+14,Republican
+South Carolina,4th,R+15,Republican
+South Carolina,5th,R+6,Democratic
+South Carolina,6th,D+11,Democratic
+South Dakota,At-large,R+10,Democratic
+Tennessee,1st,R+14,Republican
+Tennessee,2nd,R+11,Republican
+Tennessee,3rd,R+8,Republican
+Tennessee,4th,R+3,Democratic
+Tennessee,5th,D+6,Democratic
+Tennessee,6th,R+4,Democratic
+Tennessee,7th,R+12,Republican
+Tennessee,8th,D+0,Democratic
+Tennessee,9th,D+18,Democratic
+Texas,1st,R+17,Republican
+Texas,2nd,R+12,Republican
+Texas,3rd,R+17,Republican
+Texas,4th,R+17,Republican
+Texas,5th,R+16,Republican
+Texas,6th,R+15,Republican
+Texas,7th,R+16,Republican
+Texas,8th,R+20,Republican
+Texas,9th,D+21,Democratic
+Texas,10th,R+13,Republican
+Texas,11th,R+25,Republican
+Texas,12th,R+14,Republican
+Texas,13th,R+18,Republican
+Texas,14th,R+14,Republican
+Texas,15th,D+3,Democratic
+Texas,16th,D+9,Democratic
+Texas,17th,R+18,Democratic
+Texas,18th,D+23,Democratic
+Texas,19th,R+25,Republican
+Texas,20th,D+8,Democratic
+Texas,21st,R+13,Republican
+Texas,22nd,R+15,Democratic
+Texas,23rd,R+4,Democratic
+Texas,24th,R+15,Republican
+Texas,25th,D+1,Democratic
+Texas,26th,R+12,Republican
+Texas,27th,R+1,Democratic
+Texas,28th,R+1,Democratic
+Texas,29th,D+8,Democratic
+Texas,30th,D+26,Democratic
+Texas,31st,R+15,Republican
+Texas,32nd,R+11,Republican
+Utah,1st,R+26,Republican
+Utah,2nd,R+17,Democratic
+Utah,3rd,R+22,Republican
+Vermont,At-large,D+8,Democratic
+Virginia,1st,R+9,Republican
+Virginia,2nd,R+6,Republican
+Virginia,3rd,D+18,Democratic
+Virginia,4th,R+5,Republican
+Virginia,5th,R+6,Republican
+Virginia,6th,R+11,Republican
+Virginia,7th,R+11,Republican
+Virginia,8th,D+14,Democratic
+Virginia,9th,R+7,Democratic
+Virginia,10th,R+5,Republican
+Virginia,11th,R+1,Republican
+Washington,1st,D+7,Democratic
+Washington,2nd,D+3,Democratic
+Washington,3rd,D+0,Democratic
+Washington,4th,R+13,Republican
+Washington,5th,R+7,Republican
+Washington,6th,D+6,Democratic
+Washington,7th,D+30,Democratic
+Washington,8th,D+2,Republican
+Washington,9th,D+6,Democratic
+West Virginia,1st,R+6,Democratic
+West Virginia,2nd,R+5,Republican
+West Virginia,3rd,D+0,Democratic
+Wisconsin,1st,R+2,Republican
+Wisconsin,2nd,D+13,Democratic
+Wisconsin,3rd,D+3,Democratic
+Wisconsin,4th,D+20,Democratic
+Wisconsin,5th,R+12,Republican
+Wisconsin,6th,R+5,Republican
+Wisconsin,7th,D+2,Democratic
+Wisconsin,8th,D+0,Democratic
+Wyoming,At-large,R+19,Republican
