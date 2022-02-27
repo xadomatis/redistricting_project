@@ -1,0 +1,51 @@
+ST,PVI,Share GOP,dist_loss_117,porp_loss_117,State,row,column,Population Excluded (117th),Districts Lost (117th),State Status (117th)
+AL,R+15,0.65,-1.2684844759284193,-0.18121206798977418,Alabama,-6,7.5,"18% Excluded, Against Dems",1.27 Dem Districts Lost,Multi-District
+AK,R+9,0.59,-0.36350877192982456,-0.36350877192982456,Alaska,0,0.5,"36% Excluded, Against Dems",0.36 Dem Districts Lost,Single District
+AZ,R+3,0.53,0.04768619505410854,0.0052984661171231705,Arizona,-5,3.0,"1% Excluded, Against GOP",0.05 GOP Districts Lost,Multi-District
+AR,R+16,0.66,-1.0764098090530188,-0.2691024522632547,Arkansas,-5,6.0,"27% Excluded, Against Dems",1.08 Dem Districts Lost,Multi-District
+CA,D+14,0.36,10.095207200690586,0.19047560756019974,California,-5,2.0,"19% Excluded, Against GOP",10.1 GOP Districts Lost,Multi-District
+CO,D+3,0.47,0.47551944000644486,0.06793134857234927,Colorado,-4,3.5,"7% Excluded, Against GOP",0.48 GOP Districts Lost,Multi-District
+CT,D+7,0.43,1.4592324805339265,0.2918464961067853,Connecticut,-3,11.0,"28% Excluded, Against GOP",1.46 GOP Districts Lost,Multi-District
+DE,D+6,0.44,0.3954140127388535,0.3954140127388535,Delaware,-4,9.5,"4% Excluded, Against GOP",0.4 GOP Districts Lost,Single District
+FL,R+3,0.53,-0.18169183401381162,-0.0067293271856967265,Florida,-8,8.5,"1% Excluded, Against Dems",0.18 Dem Districts Lost,Multi-District
+GA,R+3,0.53,-1.5178159155697042,-0.10841542254069315,Georgia,-7,8.0,"11% Excluded, Against Dems",1.52 Dem Districts Lost,Multi-District
+HI,D+15,0.35,0.6911012235817575,0.34555061179087876,Hawaii,-8,0.5,"35% Excluded, Against GOP",0.69 GOP Districts Lost,Multi-District
+ID,R+19,0.69,-0.5735087719298246,-0.2867543859649123,Idaho,-3,2.0,"28% Excluded, Against Dems",0.57 Dem Districts Lost,Multi-District
+IL,D+7,0.43,1.4579871075537083,0.08099928375298379,Illinois,-3,6.0,"8% Excluded, Against GOP",1.46 GOP Districts Lost,Multi-District
+IN,R+11,0.61,-1.2788855130516135,-0.14209839033906815,Indiana,-3,7.0,"14% Excluded, Against Dems",1.28 Dem Districts Lost,Multi-District
+IA,R+6,0.56,-0.9796624663167242,-0.24491561657918104,Iowa,-3,5.0,"24% Excluded, Against Dems",0.98 Dem Districts Lost,Multi-District
+KS,R+11,0.61,-0.8379852857951327,-0.20949632144878316,Kansas,-5,5.0,"21% Excluded, Against Dems",0.84 Dem Districts Lost,Multi-District
+KY,R+16,0.66,-0.9514669320687705,-0.15857782201146176,Kentucky,-4,6.5,"16% Excluded, Against Dems",0.95 Dem Districts Lost,Multi-District
+LA,R+12,0.62,-1.1449757039985942,-0.1908292839997657,Louisiana,-6,5.5,"19% Excluded, Against Dems",1.14 Dem Districts Lost,Multi-District
+ME,D+1,0.49,0.1661583465975086,0.0830791732987543,Maine,0,11.5,"8% Excluded, Against GOP",0.17 GOP Districts Lost,Multi-District
+MD,D+14,0.36,1.9042442870245693,0.23803053587807116,Maryland,-4,8.5,"24% Excluded, Against GOP",1.9 GOP Districts Lost,Multi-District
+MA,D+14,0.36,3.1642682952750047,0.3515853661416672,Massachusetts,-2,10.5,"35% Excluded, Against GOP",3.16 GOP Districts Lost,Multi-District
+MI,R+1,0.51,-1.2520824997146942,-0.0894344642653353,Michigan,-2,7.5,"9% Excluded, Against Dems",1.25 Dem Districts Lost,Multi-District
+MN,D+1,0.49,-0.34550948757980926,-0.04318868594747616,Minnesota,-2,4.5,"4% Excluded, Against Dems",0.35 Dem Districts Lost,Multi-District
+MS,R+10,0.6,-0.5114669320687706,-0.12786673301719265,Mississippi,-6,6.5,"13% Excluded, Against Dems",0.51 Dem Districts Lost,Multi-District
+MO,R+11,0.61,-0.8605943568088694,-0.10757429460110868,Missouri,-4,5.5,"11% Excluded, Against Dems",0.86 Dem Districts Lost,Multi-District
+MT,R+11,0.61,-0.34350877192982454,-0.34350877192982454,Montana,-2,2.5,"34% Excluded, Against Dems",0.34 Dem Districts Lost,Single District
+NE,R+13,0.63,-0.6553455066237022,-0.2184485022079007,Nebraska ,-4,4.5,"22% Excluded, Against Dems",0.66 Dem Districts Lost,Multi-District
+NV,R+0,0.5,0.017227944079416524,0.004306986019854131,Nevada ,-4,2.5,"% Excluded, Against GOP",0.02 GOP Districts Lost,Multi-District
+NH,R+0,0.5,0.037195523370638583,0.018597761685319292,New Hampshire ,-1,11.0,"2% Excluded, Against GOP",0.04 GOP Districts Lost,Multi-District
+NJ,D+6,0.44,1.421701318254112,0.11847510985450933,New Jersey ,-3,10.0,"12% Excluded, Against GOP",1.42 GOP Districts Lost,Multi-District
+NM,D+3,0.47,0.4074558525999077,0.13581861753330257,New Mexico ,-6,3.5,"14% Excluded, Against GOP",0.41 GOP Districts Lost,Multi-District
+NY,D+10,0.4,2.4267662183001697,0.0898802303074137,New York ,-2,9.5,"9% Excluded, Against GOP",2.43 GOP Districts Lost,Multi-District
+NC,R+3,0.53,-0.7676470696329112,-0.05904977458714701,North Carolina ,-5,9.0,"6% Excluded, Against Dems",0.77 Dem Districts Lost,Multi-District
+ND,R+20,0.7,-0.2535087719298246,-0.2535087719298246,North Dakota ,-2,3.5,"25% Excluded, Against Dems",0.25 Dem Districts Lost,Single District
+OH,R+6,0.56,-2.3115955431306805,-0.14447472144566753,Ohio ,-3,8.0,"14% Excluded, Against Dems",2.31 Dem Districts Lost,Multi-District
+OK,R+20,0.7,-1.2164098090530189,-0.24328196181060377,Oklahoma ,-6,4.5,"24% Excluded, Against Dems",1.22 Dem Districts Lost,Multi-District
+OR,D+6,0.44,0.3070460395387009,0.06140920790774018,Oregon ,-4,1.5,"6% Excluded, Against GOP",0.31 GOP Districts Lost,Multi-District
+PA,R+2,0.52,-0.6204972043225183,-0.03447206690680657,Pennsylvania,-3,9.0,"3% Excluded, Against Dems",0.62 Dem Districts Lost,Multi-District
+RI,D+8,0.42,0.6480506117908788,0.3240253058954394,Rhode Island ,-2,11.5,"32% Excluded, Against GOP",0.65 GOP Districts Lost,Multi-District
+SC,R+8,0.58,-1.5678767411217889,-0.223982391588827,South Carolina ,-6,8.5,"22% Excluded, Against Dems",1.57 Dem Districts Lost,Multi-District
+SD,R+16,0.66,-0.2935087719298245,-0.2935087719298245,South Dakota ,-3,4.0,"28% Excluded, Against Dems",0.29 Dem Districts Lost,Single District
+TN,R+14,0.64,-1.104975703998596,-0.12277507822206621,Tennessee ,-5,7.0,"12% Excluded, Against Dems",1.1 Dem Districts Lost,Multi-District
+TX,R+5,0.55,-1.9981849387159976,-0.05550513718655549,Texas ,-7,4.0,"6% Excluded, Against Dems",2 Dem Districts Lost,Multi-District
+UT,R+13,0.63,-1.149918580982844,-0.287479645245711,Utah ,-5,4.0,"28% Excluded, Against Dems",1.15 Dem Districts Lost,Multi-District
+VT,D+15,0.35,0.34555061179087876,0.34555061179087876,Vermont ,-1,10.0,"35% Excluded, Against GOP",0.35 GOP Districts Lost,Single District
+VA,D+2,0.48,0.3697637680902943,0.033614888008208575,Virginia ,-5,8.0,"3% Excluded, Against GOP",0.37 GOP Districts Lost,Multi-District
+WA,D+8,0.42,0.9370412382994568,0.09370412382994568,Washington ,-2,1.5,"9% Excluded, Against GOP",0.94 GOP Districts Lost,Multi-District
+WV,R+23,0.73,-0.7635087719298244,-0.2545029239766081,West Virginia ,-4,7.5,"25% Excluded, Against Dems",0.76 Dem Districts Lost,Multi-District
+WI,R+2,0.52,-1.2613169550189838,-0.15766461937737297,Wisconsin ,-2,5.5,"16% Excluded, Against Dems",1.26 Dem Districts Lost,Multi-District
+WY,R+26,0.76,-0.24,-0.24,Wyoming,-3,3.0,"24% Excluded, Against Dems",0.24 Dem Districts Lost,Single District
