@@ -1,4 +1,4 @@
-year,ST,PVI,metric,dist_loss,porp_loss,porp_text,dist_text,lean,State,wave,congress,Period,event,dist_loss_x,dist_loss_y
+year,ST,PVI,metric,dist_loss,porp_loss,porp_text,dist_text,lean,State,wave,congress,Period,event,dist_loss_agg,dist_loss_net
 2020,AL,R+15,0.65,-1.2684844759284193,-0.18121206798977418,"18% Excluded, Against Dems",1.27 Dem Districts Lost,Dems Excluded,Alabama,Neutral,117,117th Congress (2020),No Change,-27.691851896147924,-0.917234180976999
 2020,AK,R+9,0.59,-0.36350877192982456,-0.36350877192982456,"36% Excluded, Against Dems",0.36 Dem Districts Lost,Dems Excluded,Alaska,Neutral,117,117th Congress (2020),No Change,-27.691851896147924,-0.917234180976999
 2020,AR,R+16,0.66,-1.0764098090530188,-0.2691024522632547,"27% Excluded, Against Dems",1.08 Dem Districts Lost,Dems Excluded,Arkansas,Neutral,117,117th Congress (2020),No Change,-27.691851896147924,-0.917234180976999

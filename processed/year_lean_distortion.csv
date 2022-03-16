@@ -1,4 +1,4 @@
-year,lean,dist_loss_x,ST,dist_loss_y,key
+year,lean,dist_loss_agg,ST,dist_loss_net,key
 2004,Dems Excluded,-27.82202244814745,US,-2.3352460394016825,2004D
 2004,GOP Excluded,25.486776408745765,US,-2.3352460394016825,2004G
 2006,Dems Excluded,-27.82202244814745,US,-2.3352460394016825,2006D
