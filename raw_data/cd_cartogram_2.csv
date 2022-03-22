@@ -1,0 +1,436 @@
+district,FIPS,X,Y,State,ST,ST#
+7,1,24,26,Alabama,AL,AL7
+3,1,25.5,25,Alabama,AL,AL3
+1,1,24.5,27,Alabama,AL,AL1
+6,1,24.5,25,Alabama,AL,AL6
+4,1,24,24,Alabama,AL,AL4
+5,1,25,24,Alabama,AL,AL5
+2,1,25,26,Alabama,AL,AL2
+0,2,2,28,Alaska,AK,AK0
+4,4,7,18,Arizona,AZ,AZ4
+8,4,8,18,Arizona,AZ,AZ8
+5,4,9.5,19,Arizona,AZ,AZ5
+6,4,8.5,19,Arizona,AZ,AZ6
+1,4,9,18,Arizona,AZ,AZ1
+7,4,7.5,19,Arizona,AZ,AZ7
+9,4,8,20,Arizona,AZ,AZ9
+2,4,9,20,Arizona,AZ,AZ2
+3,4,7,20,Arizona,AZ,AZ3
+2,5,19.5,23,Arkansas,AR,AR2
+4,5,18.5,23,Arkansas,AR,AR4
+3,5,18,22,Arkansas,AR,AR3
+1,5,19,22,Arkansas,AR,AR1
+43,6,2.5,19,California,CA,CA43
+25,6,4.5,19,California,CA,CA25
+37,6,3,18,California,CA,CA37
+33,6,2,18,California,CA,CA33
+39,6,5,20,California,CA,CA39
+44,6,2,20,California,CA,CA44
+32,6,5.5,19,California,CA,CA32
+34,6,3.5,19,California,CA,CA34
+19,6,3.5,15,California,CA,CA19
+28,6,4,18,California,CA,CA28
+1,6,2.5,11,California,CA,CA1
+3,6,3.5,11,California,CA,CA3
+5,6,1,12,California,CA,CA5
+7,6,3,12,California,CA,CA7
+6,6,2,12,California,CA,CA6
+9,6,4,12,California,CA,CA9
+12,6,1.5,13,California,CA,CA12
+11,6,3.5,13,California,CA,CA11
+13,6,2.5,13,California,CA,CA13
+10,6,4.5,13,California,CA,CA10
+16,6,4,14,California,CA,CA16
+38,6,4,20,California,CA,CA38
+15,6,3,14,California,CA,CA15
+18,6,2,14,California,CA,CA18
+20,6,1.5,15,California,CA,CA20
+17,6,2.5,15,California,CA,CA17
+21,6,4.5,15,California,CA,CA21
+22,6,4,16,California,CA,CA22
+24,6,2,16,California,CA,CA24
+30,6,3,16,California,CA,CA30
+23,6,4.5,17,California,CA,CA23
+26,6,2.5,17,California,CA,CA26
+29,6,3.5,17,California,CA,CA29
+27,6,5,18,California,CA,CA27
+14,6,1,14,California,CA,CA14
+40,6,3,20,California,CA,CA40
+47,6,2.5,21,California,CA,CA47
+2,6,1.5,11,California,CA,CA2
+46,6,3.5,21,California,CA,CA46
+50,6,6,24,California,CA,CA50
+36,6,5,24,California,CA,CA36
+51,6,7,24,California,CA,CA51
+52,6,5.5,23,California,CA,CA52
+49,6,4.5,23,California,CA,CA49
+42,6,6.5,23,California,CA,CA42
+4,6,4.5,11,California,CA,CA4
+41,6,5,22,California,CA,CA41
+48,6,3,22,California,CA,CA48
+8,6,6,22,California,CA,CA8
+45,6,4.5,21,California,CA,CA45
+35,6,4,22,California,CA,CA35
+31,6,5.5,21,California,CA,CA31
+5,8,12,14,Colorado,CO,CO5
+7,8,12.5,13,Colorado,CO,CO7
+8,8,11.5,13,Colorado,CO,CO8
+3,8,12.5,15,Colorado,CO,CO3
+6,8,13.5,13,Colorado,CO,CO6
+4,8,13.5,15,Colorado,CO,CO4
+2,8,14,14,Colorado,CO,CO2
+1,8,13,14,Colorado,CO,CO1
+4,9,38,6,Connecticut,CT,CT4
+3,9,39,6,Connecticut,CT,CT3
+2,9,40.5,5,Connecticut,CT,CT2
+5,9,38.5,5,Connecticut,CT,CT5
+1,9,39.5,5,Connecticut,CT,CT1
+0,10,39,14,Delaware,DE,DE0
+28,12,26.5,27,Florida,FL,FL28
+25,12,30,30,Florida,FL,FL25
+24,12,31.5,31,Florida,FL,FL24
+26,12,29.5,31,Florida,FL,FL26
+19,12,29,30,Florida,FL,FL19
+20,12,31,30,Florida,FL,FL20
+16,12,30.5,29,Florida,FL,FL16
+21,12,32,30,Florida,FL,FL21
+8,12,33.5,29,Florida,FL,FL8
+27,12,30.5,31,Florida,FL,FL27
+18,12,33,30,Florida,FL,FL18
+10,12,32,28,Florida,FL,FL10
+17,12,31.5,29,Florida,FL,FL17
+13,12,29.5,29,Florida,FL,FL13
+7,12,33,28,Florida,FL,FL7
+12,12,29,28,Florida,FL,FL12
+14,12,30,28,Florida,FL,FL14
+15,12,31,28,Florida,FL,FL15
+3,12,30.5,27,Florida,FL,FL3
+11,12,32.5,27,Florida,FL,FL11
+4,12,31.5,27,Florida,FL,FL4
+5,12,29.5,27,Florida,FL,FL5
+2,12,28.5,27,Florida,FL,FL2
+1,12,27.5,27,Florida,FL,FL1
+6,12,33.5,27,Florida,FL,FL6
+9,12,32.5,29,Florida,FL,FL9
+23,12,32.5,31,Florida,FL,FL23
+22,12,33.5,31,Florida,FL,FL22
+13,13,29,24,Georgia,GA,GA13
+6,13,29.5,23,Georgia,GA,GA6
+5,13,30.5,23,Georgia,GA,GA5
+14,13,28,22,Georgia,GA,GA14
+4,13,30,24,Georgia,GA,GA4
+9,13,29,22,Georgia,GA,GA9
+3,13,28,24,Georgia,GA,GA3
+10,13,31,24,Georgia,GA,GA10
+2,13,28.5,25,Georgia,GA,GA2
+8,13,29.5,25,Georgia,GA,GA8
+7,13,31.5,23,Georgia,GA,GA7
+12,13,31.5,25,Georgia,GA,GA12
+1,13,30.5,25,Georgia,GA,GA1
+11,13,28.5,23,Georgia,GA,GA11
+1,15,6,28,Hawaii,HI,HI1
+2,15,7.5,29,Hawaii,HI,HI2
+1,16,8.5,9,Idaho,ID,ID1
+2,16,8,10,Idaho,ID,ID2
+11,17,21.5,15,Illinois,IL,IL11
+13,17,21,16,Illinois,IL,IL13
+8,17,21.5,13,Illinois,IL,IL8
+16,17,21.5,11,Illinois,IL,IL16
+2,17,22,16,Illinois,IL,IL2
+4,17,22.5,13,Illinois,IL,IL4
+5,17,22.5,17,Illinois,IL,IL5
+15,17,22,12,Illinois,IL,IL15
+12,17,21.5,17,Illinois,IL,IL12
+10,17,21,12,Illinois,IL,IL10
+17,17,20,12,Illinois,IL,IL17
+1,17,22.5,15,Illinois,IL,IL1
+3,17,21,14,Illinois,IL,IL3
+7,17,22,14,Illinois,IL,IL7
+14,17,20,14,Illinois,IL,IL14
+9,17,20.5,15,Illinois,IL,IL9
+6,17,20.5,13,Illinois,IL,IL6
+8,18,24,16,Indiana,IN,IN8
+6,18,25.5,15,Indiana,IN,IN6
+9,18,24.5,15,Indiana,IN,IN9
+2,18,25.5,13,Indiana,IN,IN2
+4,18,24.5,13,Indiana,IN,IN4
+7,18,24,14,Indiana,IN,IN7
+1,18,24,12,Indiana,IN,IN1
+5,18,25,14,Indiana,IN,IN5
+3,18,25,12,Indiana,IN,IN3
+3,19,17,12,Iowa,IA,IA3
+4,19,17.5,11,Iowa,IA,IA4
+2,19,18,12,Iowa,IA,IA2
+1,19,18.5,11,Iowa,IA,IA1
+1,20,15,16,Kansas,KS,KS1
+3,20,16,16,Kansas,KS,KS3
+4,20,15.5,17,Kansas,KS,KS4
+2,20,16.5,17,Kansas,KS,KS2
+5,21,27,18,Kentucky,KY,KY5
+3,21,26.5,17,Kentucky,KY,KY3
+4,21,27.5,17,Kentucky,KY,KY4
+1,21,24,18,Kentucky,KY,KY1
+6,21,26,18,Kentucky,KY,KY6
+2,21,25,18,Kentucky,KY,KY2
+3,22,18,26,Louisiana,LA,LA3
+5,22,19,26,Louisiana,LA,LA5
+2,22,19.5,27,Louisiana,LA,LA2
+1,22,20.5,27,Louisiana,LA,LA1
+6,22,18.5,27,Louisiana,LA,LA6
+4,22,18.5,25,Louisiana,LA,LA4
+1,23,42,0,Maine,ME,ME1
+2,23,42.5,-1,Maine,ME,ME2
+4,24,35,14,Maryland,MD,MD4
+7,24,34,14,Maryland,MD,MD7
+2,24,37,14,Maryland,MD,MD2
+8,24,33,14,Maryland,MD,MD8
+3,24,36,14,Maryland,MD,MD3
+1,24,37.5,15,Maryland,MD,MD1
+5,24,36.5,15,Maryland,MD,MD5
+6,24,32,14,Maryland,MD,MD6
+5,25,39.5,3,Massachusetts,MA,MA5
+4,25,41.5,3,Massachusetts,MA,MA4
+9,25,42.5,3,Massachusetts,MA,MA9
+7,25,40.5,3,Massachusetts,MA,MA7
+3,25,39,2,Massachusetts,MA,MA3
+8,25,41,2,Massachusetts,MA,MA8
+2,25,38,2,Massachusetts,MA,MA2
+6,25,40,2,Massachusetts,MA,MA6
+1,25,38.5,3,Massachusetts,MA,MA1
+13,26,27,8,Michigan,MI,MI13
+5,26,25,6,Michigan,MI,MI5
+1,26,23.5,5,Michigan,MI,MI1
+2,26,24,6,Michigan,MI,MI2
+9,26,26,8,Michigan,MI,MI9
+11,26,25,8,Michigan,MI,MI11
+4,26,24.5,7,Michigan,MI,MI4
+8,26,25.5,7,Michigan,MI,MI8
+3,26,24,8,Michigan,MI,MI3
+7,26,25.5,9,Michigan,MI,MI7
+12,26,26.5,9,Michigan,MI,MI12
+6,26,24.5,9,Michigan,MI,MI6
+10,26,26,6,Michigan,MI,MI10
+7,27,17,6,Minnesota,MN,MN7
+8,27,18,6,Minnesota,MN,MN8
+4,27,18,8,Minnesota,MN,MN4
+5,27,17,8,Minnesota,MN,MN5
+1,27,17.5,9,Minnesota,MN,MN1
+6,27,17.5,7,Minnesota,MN,MN6
+3,27,18.5,7,Minnesota,MN,MN3
+2,27,18.5,9,Minnesota,MN,MN2
+1,28,22,24,Mississippi,MS,MS1
+3,28,21.5,25,Mississippi,MS,MS3
+2,28,21,24,Mississippi,MS,MS2
+4,28,22.5,25,Mississippi,MS,MS4
+4,29,18.5,19,Missouri,MO,MO4
+8,29,19,20,Missouri,MO,MO8
+1,29,20.5,19,Missouri,MO,MO1
+7,29,18,20,Missouri,MO,MO7
+2,29,20,20,Missouri,MO,MO2
+5,29,18,18,Missouri,MO,MO5
+6,29,19,18,Missouri,MO,MO6
+3,29,19.5,19,Missouri,MO,MO3
+1,30,10.5,5,Montana,MT,MT1
+2,30,11.5,5,Montana,MT,MT2
+2,31,15.5,11,Nebraska,NE,NE2
+1,31,15,10,Nebraska,NE,NE1
+3,31,14,10,Nebraska,NE,NE3
+1,32,6,14,Nevada,NV,NV1
+2,32,6.5,13,Nevada,NV,NV2
+4,32,7.5,13,Nevada,NV,NV4
+3,32,7,14,Nevada,NV,NV3
+2,33,40.5,-1,New Hampshire,NH,NH2
+1,33,40,0,New Hampshire,NH,NH1
+2,34,39,12,New Jersey,NJ,NJ2
+4,34,42,12,New Jersey,NJ,NJ4
+11,34,40,10,New Jersey,NJ,NJ11
+6,34,41.5,11,New Jersey,NJ,NJ6
+7,34,39.5,11,New Jersey,NJ,NJ7
+5,34,39,10,New Jersey,NJ,NJ5
+3,34,41,12,New Jersey,NJ,NJ3
+10,34,41,10,New Jersey,NJ,NJ10
+9,34,42,10,New Jersey,NJ,NJ9
+8,34,42.5,11,New Jersey,NJ,NJ8
+1,34,40,12,New Jersey,NJ,NJ1
+12,34,40.5,11,New Jersey,NJ,NJ12
+2,35,12.5,19,New Mexico,NM,NM2
+3,35,13,18,New Mexico,NM,NM3
+1,35,12,18,New Mexico,NM,NM1
+26,36,31.5,7,New York,NY,NY26
+20,36,35.5,3,New York,NY,NY20
+23,36,30.5,7,New York,NY,NY23
+19,36,36.5,3,New York,NY,NY19
+7,36,33.5,7,New York,NY,NY7
+10,36,33,6,New York,NY,NY10
+17,36,36,4,New York,NY,NY17
+21,36,34,4,New York,NY,NY21
+22,36,31,6,New York,NY,NY22
+12,36,34,6,New York,NY,NY12
+14,36,36.5,5,New York,NY,NY14
+16,36,35.5,5,New York,NY,NY16
+24,36,33.5,5,New York,NY,NY24
+6,36,36,6,New York,NY,NY6
+13,36,34.5,5,New York,NY,NY13
+15,36,35,6,New York,NY,NY15
+25,36,32,6,New York,NY,NY25
+18,36,35,4,New York,NY,NY18
+8,36,35.5,7,New York,NY,NY8
+5,36,36.5,7,New York,NY,NY5
+1,36,39,8,New York,NY,NY1
+11,36,32.5,7,New York,NY,NY11
+2,36,38,8,New York,NY,NY2
+9,36,34.5,7,New York,NY,NY9
+3,36,37,8,New York,NY,NY3
+4,36,36,8,New York,NY,NY4
+14,37,30.5,21,North Carolina,NC,NC14
+1,37,36,20,North Carolina,NC,NC1
+6,37,33,20,North Carolina,NC,NC6
+7,37,36,22,North Carolina,NC,NC7
+11,37,31.5,21,North Carolina,NC,NC11
+13,37,34.5,21,North Carolina,NC,NC13
+3,37,36.5,21,North Carolina,NC,NC3
+8,37,35.5,21,North Carolina,NC,NC8
+12,37,33.5,21,North Carolina,NC,NC12
+10,37,32.5,21,North Carolina,NC,NC10
+9,37,35,22,North Carolina,NC,NC9
+2,37,35,20,North Carolina,NC,NC2
+4,37,34,20,North Carolina,NC,NC4
+5,37,32,20,North Carolina,NC,NC5
+0,38,14,6,North Dakota,ND,ND0
+3,39,28.5,13,Ohio,OH,OH3
+11,39,29,12,Ohio,OH,OH11
+4,39,27.5,13,Ohio,OH,OH4
+16,39,29.5,13,Ohio,OH,OH16
+9,39,28,12,Ohio,OH,OH9
+13,39,30,12,Ohio,OH,OH13
+10,39,28,14,Ohio,OH,OH10
+1,39,27,14,Ohio,OH,OH1
+14,39,29.5,15,Ohio,OH,OH14
+2,39,28.5,15,Ohio,OH,OH2
+5,39,27.5,11,Ohio,OH,OH5
+7,39,30.5,13,Ohio,OH,OH7
+8,39,27,12,Ohio,OH,OH8
+12,39,29,14,Ohio,OH,OH12
+6,39,30,14,Ohio,OH,OH6
+1,40,16,20,Oklahoma,OK,OK1
+5,40,15,20,Oklahoma,OK,OK5
+4,40,15.5,21,Oklahoma,OK,OK4
+2,40,16.5,21,Oklahoma,OK,OK2
+3,40,14,20,Oklahoma,OK,OK3
+3,41,3,8,Oregon,OR,OR3
+4,41,3.5,9,Oregon,OR,OR4
+5,41,2.5,9,Oregon,OR,OR5
+1,41,2,8,Oregon,OR,OR1
+2,41,4.5,9,Oregon,OR,OR2
+6,41,4,8,Oregon,OR,OR6
+8,42,35,10,Pennsylvania,PA,PA8
+7,42,36,10,Pennsylvania,PA,PA7
+14,42,33.5,11,Pennsylvania,PA,PA14
+5,42,36,12,Pennsylvania,PA,PA5
+13,42,33,12,Pennsylvania,PA,PA13
+11,42,34,12,Pennsylvania,PA,PA11
+4,42,36.5,11,Pennsylvania,PA,PA4
+17,42,32.5,11,Pennsylvania,PA,PA17
+10,42,34.5,11,Pennsylvania,PA,PA10
+1,42,37,10,Pennsylvania,PA,PA1
+3,42,37,12,Pennsylvania,PA,PA3
+2,42,37.5,11,Pennsylvania,PA,PA2
+6,42,35,12,Pennsylvania,PA,PA6
+16,42,32,10,Pennsylvania,PA,PA16
+15,42,33,10,Pennsylvania,PA,PA15
+12,42,34,10,Pennsylvania,PA,PA12
+9,42,35.5,11,Pennsylvania,PA,PA9
+2,44,42,6,Rhode Island,RI,RI2
+1,44,42.5,5,Rhode Island,RI,RI1
+4,45,35,24,South Carolina,SC,SC4
+3,45,34,24,South Carolina,SC,SC3
+7,45,36.5,25,South Carolina,SC,SC7
+6,45,35,26,South Carolina,SC,SC6
+1,45,36,26,South Carolina,SC,SC1
+5,45,36,24,South Carolina,SC,SC5
+2,45,35.5,25,South Carolina,SC,SC2
+0,46,14,8,South Dakota,SD,SD0
+3,47,25.5,21,Tennessee,TN,TN3
+8,47,23,20,Tennessee,TN,TN8
+1,47,27,20,Tennessee,TN,TN1
+2,47,26,20,Tennessee,TN,TN2
+4,47,24.5,21,Tennessee,TN,TN4
+6,47,25,20,Tennessee,TN,TN6
+7,47,23.5,21,Tennessee,TN,TN7
+9,47,22.5,21,Tennessee,TN,TN9
+5,47,24,20,Tennessee,TN,TN5
+38,48,10.5,25,Texas,TX,TX38
+37,48,9,24,Texas,TX,TX37
+35,48,12.5,27,Texas,TX,TX35
+29,48,15,26,Texas,TX,TX29
+27,48,15.5,27,Texas,TX,TX27
+4,48,15.5,23,Texas,TX,TX4
+17,48,13,26,Texas,TX,TX17
+36,48,16,26,Texas,TX,TX36
+1,48,16.5,23,Texas,TX,TX1
+34,48,14.5,29,Texas,TX,TX34
+18,48,14,26,Texas,TX,TX18
+15,48,14,28,Texas,TX,TX15
+13,48,13,22,Texas,TX,TX13
+21,48,11,26,Texas,TX,TX21
+22,48,14.5,27,Texas,TX,TX22
+24,48,13,24,Texas,TX,TX24
+19,48,12,22,Texas,TX,TX19
+10,48,13,28,Texas,TX,TX10
+31,48,12,26,Texas,TX,TX31
+20,48,12,28,Texas,TX,TX20
+9,48,13.5,27,Texas,TX,TX9
+25,48,11.5,25,Texas,TX,TX25
+32,48,14,24,Texas,TX,TX32
+23,48,11,24,Texas,TX,TX23
+33,48,12,24,Texas,TX,TX33
+6,48,15,24,Texas,TX,TX6
+16,48,10,24,Texas,TX,TX16
+5,48,16,24,Texas,TX,TX5
+3,48,14.5,23,Texas,TX,TX3
+11,48,12.5,23,Texas,TX,TX11
+8,48,16.5,25,Texas,TX,TX8
+14,48,16.5,27,Texas,TX,TX14
+12,48,12.5,25,Texas,TX,TX12
+26,48,13.5,23,Texas,TX,TX26
+28,48,13.5,29,Texas,TX,TX28
+7,48,14.5,25,Texas,TX,TX7
+2,48,15.5,25,Texas,TX,TX2
+30,48,13.5,25,Texas,TX,TX30
+2,49,9.5,15,Utah,UT,UT2
+1,49,9,14,Utah,UT,UT1
+4,49,10,14,Utah,UT,UT4
+3,49,10.5,15,Utah,UT,UT3
+0,50,38,0,Vermont,VT,VT0
+9,51,32,18,Virginia,VA,VA9
+3,51,36,18,Virginia,VA,VA3
+11,51,35.5,17,Virginia,VA,VA11
+1,51,36.5,17,Virginia,VA,VA1
+6,51,33.5,17,Virginia,VA,VA6
+10,51,34,16,Virginia,VA,VA10
+2,51,37,18,Virginia,VA,VA2
+5,51,33,18,Virginia,VA,VA5
+7,51,34.5,17,Virginia,VA,VA7
+4,51,34,18,Virginia,VA,VA4
+8,51,35,18,Virginia,VA,VA8
+6,53,2.5,5,Washington,WA,WA6
+3,53,2,6,Washington,WA,WA3
+10,53,3,6,Washington,WA,WA10
+5,53,5,6,Washington,WA,WA5
+1,53,4,4,Washington,WA,WA1
+4,53,5.5,5,Washington,WA,WA4
+2,53,3.5,5,Washington,WA,WA2
+7,53,4.5,5,Washington,WA,WA7
+9,53,4,6,Washington,WA,WA9
+8,53,5,4,Washington,WA,WA8
+2,54,29.5,17,West Virginia,WV,WV2
+1,54,29,18,West Virginia,WV,WV1
+3,55,20,8,Wisconsin,WI,WI3
+8,55,21.5,7,Wisconsin,WI,WI8
+6,55,22.5,7,Wisconsin,WI,WI6
+2,55,21.5,9,Wisconsin,WI,WI2
+4,55,22,8,Wisconsin,WI,WI4
+5,55,21,8,Wisconsin,WI,WI5
+7,55,20.5,7,Wisconsin,WI,WI7
+1,55,22.5,9,Wisconsin,WI,WI1
+0,56,11,8,Wyoming,WY,WY0
