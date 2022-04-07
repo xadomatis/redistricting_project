@@ -3336,8 +3336,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='800' minheight='800' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='30' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='29' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='32' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='31' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='98000' id='3' is-fixed='true' name='Block Slider' w='65800' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3474,8 +3474,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='900' minheight='900' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='45' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='44' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='47' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='46' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='75375' id='7' is-fixed='true' name='Iowa 117' w='49200' x='800' y='1000'>
                   <layout-cache minheight='243' minwidth='200' type-h='scalable' type-w='scalable' />
                   <zone-style>
@@ -3872,7 +3872,7 @@
       </viewpoint>
       <simple-id uuid='{D5F0F273-3F11-43E6-ABDA-61F7A2D92109}' />
     </window>
-    <window class='worksheet' name='Block Slider'>
+    <window class='worksheet' maximized='true' name='Block Slider'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -3951,7 +3951,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='10' />
+      <active id='-1' />
       <simple-id uuid='{8BCCDC71-A13C-4961-B29E-56AA7D3F9130}' />
     </window>
     <window class='worksheet' name='Under the Hood'>
@@ -4091,7 +4091,7 @@
       <active id='-1' />
       <simple-id uuid='{69883BF7-CBFA-493C-AEDA-427C3581B0E5}' />
     </window>
-    <window class='dashboard' maximized='true' name='Story 1'>
+    <window class='dashboard' name='Story 1'>
       <viewpoints />
       <active id='-1' />
       <simple-id uuid='{083A82EE-6B28-484A-A4AE-F34BDFA95012}' />
