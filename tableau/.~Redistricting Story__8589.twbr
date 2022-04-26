@@ -3819,7 +3819,7 @@
     </dashboard>
   </dashboards>
   <windows source-height='135'>
-    <window class='worksheet' maximized='true' name='State Hexmap'>
+    <window class='worksheet' name='State Hexmap'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -3891,7 +3891,7 @@
       </viewpoint>
       <simple-id uuid='{D5F0F273-3F11-43E6-ABDA-61F7A2D92109}' />
     </window>
-    <window class='worksheet' name='Block Slider'>
+    <window class='worksheet' maximized='true' name='Block Slider'>
       <cards>
         <edge name='left'>
           <strip size='160'>
