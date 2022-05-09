@@ -13,7 +13,7 @@ import os
 # streamlit run app.py
 
 # Create the title and pretext
-sl.title("Xav's Redistricting Hub")
+sl.title("Xave's Redistricting Hub")
 
 sl.write("""
 ## Viewing Partisan Gerrymandering Through a Non-Geographic Lens
@@ -121,7 +121,7 @@ bubble = alt.Chart(st).mark_point(filled=True).encode(
                alt.Tooltip('porp_text',title='Porportion Lost'),
                alt.Tooltip('dist_text',title='District Deficit')
               ]
-).add_selection(selection).properties(title='Severity of Partisan Misrepresentation')
+).add_selection(selection).properties(title='Impact of Partisan Misrepresentation')
 
 
 # Build the competition chart
@@ -176,25 +176,25 @@ hg = alt.Chart(dist).mark_point().encode(
     alt.X('X',axis=None),
     alt.Y('Y',axis=None),
     #alt.Text('ST'),
-    alt.Color('prob', scale=alt.Scale(range=bluetored), legend=alt.Legend(title="Probability of GOP Representation")),
+    alt.Color('prob', scale=alt.Scale(range=bluetored), legend=alt.Legend(title="Prob. GOP Representation")),
     tooltip = [alt.Tooltip('ST#',title='District'),
                alt.Tooltip('PVI',title='PVI'),
                alt.Tooltip('prob',title='Prob GOP'),
               ]
-).properties(title=f'Median Seat Predicted with a {wave_name} wave in {year_name}').configure_point(size=15,shape=hexagon,filled=True).configure_view(strokeWidth=0)
+).properties(title=f'Median Seat Predicted with a {wave_name} Wave in {year_name}').configure_point(size=15,shape=hexagon,filled=True).configure_view(strokeWidth=0)
 
 #prep ranking diagrams
 st["PVI"] = st["PVI"].replace("R+0","EVEN")
 st["dl_abs"] = st["dist_loss"].abs()
 dis_dist = st.sort_values("dl_abs",ascending=False)
-dis_dist.columns = ["State","PVI","Distortion"]
-worst_dist = dis_dist[["State","PVI","dist_text"]].reset_index(drop=True).head(5)
-best_dist = dis_dist[["State","PVI","dist_text"]].reset_index(drop=True).tail(5)
+dis_dist = dis_dist.rename(columns = {'dist_text':'Distortion'})
+worst_dist = dis_dist[["State","PVI","Distortion"]].reset_index(drop=True).head(5)
+best_dist = dis_dist[["State","PVI","Distortion"]].reset_index(drop=True).tail(5)
 st["pl_abs"] = st["porp_loss"].abs()
 dis_porp = st.sort_values("pl_abs",ascending=False)
-dis_porp.columns = ["State","PVI","Distortion"]
-worst_porp = dis_porp[["State","PVI","porp_text"]].reset_index(drop=True).head(5)
-best_porp = dis_porp[["State","PVI","porp_text"]].reset_index(drop=True).tail(5)
+dis_porp = dis_porp.rename(columns = {'porp_text':'Distortion'})
+worst_porp = dis_porp[["State","PVI","Distortion"]].reset_index(drop=True).head(5)
+best_porp = dis_porp[["State","PVI","Distortion"]].reset_index(drop=True).tail(5)
 
 
 
@@ -209,23 +209,14 @@ if year_name != 2022:
     sl.altair_chart(act, use_container_width=True)
 sl.altair_chart(hg, use_container_width=True)
 sl.altair_chart(cart, use_container_width=True)
-sl.write("""
-*This map is unaffected by wave output
-""")
 sl.altair_chart(bubble, use_container_width=True)
-sl.write("""
-*This graph is unaffected by wave output
-""")
 sl.altair_chart(comp, use_container_width=True)
-sl.write("""
-*This graph is unaffected by wave output
-""")
 sl.write("""
 #### Least Distorted States by Porportion
 """)
 sl.write(best_porp)
 sl.write("""
-#### Least Distorted States by District Allocation
+#### Least Distorted States by Impact
 """)
 sl.write(best_dist)
 sl.write("""
@@ -233,7 +224,7 @@ sl.write("""
 """)
 sl.write(worst_porp)
 sl.write("""
-#### Most Distorted States by District Allocation
+#### Most Distorted States by Impact
 """)
 sl.write(worst_dist)
 
@@ -252,4 +243,10 @@ For predictive models, logistic regression was used to build out the probabilite
 ##### Quirks
 Data for NY and KS is reflected as the most recently passed maps, though they are likely to be redrawn by state courts.
 Data pulled from 538 has a lower accuracy; their PVI ratings are not limited to Presidential elections and may be biased by ±2 PVI points.
+""")
+
+sl.write("""
+########## Last Data Pull: 5.9.2022
+########## Authored by Xavier Adomatis for PPOL 561
+########## Contact email: xma2@georgetown.edu
 """)
