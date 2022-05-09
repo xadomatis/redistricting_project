@@ -16,7 +16,7 @@ import os
 sl.title("Xave's Redistricting Hub")
 
 sl.write("""
-## Viewing Partisan Gerrymandering Through a Non-Geographic Lens
+### Viewing Partisan Gerrymandering Through a Non-Geographic Lens
 For decades, anti-Gerrymandering advocates have condemned districts like "Maryland's Crab" or "Ohio's By-The-Lake" districts as horribly gerrymandered distortions. However, highlighting these districts de-emphasizes several key states that misrepresent their constituencies with their Congressional maps.
 Partisan distortion comes in all shapes and sizes, and can be accomplished with great subtlety. With this app, I seek to show partisan distortion fully abstracted from geography, based on history and probability.
 To the left, input an election year and a partisan wave, and the plots below will show the baseline distortion and a predicted election outcome.
@@ -39,7 +39,7 @@ dd = pd.read_csv("app_data/district_data.csv")
 
 # Set sliders and waves
 year_name = sl.sidebar.slider("Election Year", 2004, 2022, step=2)
-wave_name = sl.sidebar.selectbox("Choose Wave for Predictive Plots", ("Neutral","Democratic","Republican"))
+wave_name = sl.sidebar.selectbox("Choose Political Environment for Predictive Plots", ("Neutral","Democratic","Republican"))
 model_name = sl.sidebar.selectbox("Choose Model for Prediction", ("Binned Averages","Logit","Support Vector Machine"))
 
 
@@ -50,6 +50,21 @@ st["PVI"] = st["PVI"].replace("R+0","EVEN")
 # limit datasets by year
 st = st[st["year"] == year_name]
 dist = dd[dd["year"] == year_name]
+if wave_name == "Republican":
+    wave_word = "Republican Wave"
+    timeframe = "2010 and 2014, when the GOP earned more than 51% of the popular vote in the House"
+elif wave_name == "Democratic":
+    wave_word = "Democratic Wave"
+    timeframe = "2006, 2014, and 2018, when Democrats earned more than 51% of the popular vote in the House"
+else:
+    wave_word = "Neutral Environment"
+    timeframe = "all years"
+if model_name == "Binned Averages":
+    mod_descrip = "A Binned Averages model simply aggregates all training data and computes means for a grouping of PVIs, then assigns those means as probabilities to distrits with matching PVIs in the present."
+if model_name == "Logit":
+    mod_descrip = "A Logit model uses logistic regression to calculate likelyhood of Republican representation in a district; each PVI value is assigned a 0-1 coeffcient based on how likely it is to be Republican."
+if model_name == "Support Vector Machine":
+    mod_descrip = "The Support Vector Machine works similarly to Logit, but makes predictions based on emphasis of datapoints near the center of the spectrum. It only outputs binary predictions, which removes gradients on the models below."
 
 #create a function to change the probabilities based on a partisan wave
 
@@ -151,13 +166,13 @@ expec = pd.DataFrame(data = d, index=None)
 party_control = str(np.where(expec_GOP > expec_dem, "Republicans", "Democrats"))
 num = np.where(expec_GOP > expec_dem, expec_GOP, expec_dem)
 num_seats = str(num.round())
-phrase = f'The {model_name} model predicts that ' + party_control + " are expected to control the House with a majority of " + num_seats.rstrip(".0")  + " seats"
+phrase = f'The {model_name} model predicts that ' + party_control + " are expected to control the House with a majority of " + num_seats.rstrip(".0")  + " seats."
 #output majority control chart
 cd_scale = [0,50,100,150,175,200,218,235,260,285,335,385,435]
 maj = alt.Chart(expec).mark_bar().encode(
     alt.X('sum(Expected Seats)',axis=alt.Axis(values=cd_scale),title="Expected Seats"),
     alt.Color('Party', scale=alt.Scale(range=["blue","red"]))
-).properties(title="Predicted Mean Partisan Control of Congress")
+).properties(title=f'Partisan Control Predicted with a {wave_word} in {year_name}')
 dd = dist
 act_GOP = dd["is_GOP"].sum()
 act_dem = 435 - act_GOP
@@ -181,7 +196,7 @@ hg = alt.Chart(dist).mark_point().encode(
                alt.Tooltip('PVI',title='PVI'),
                alt.Tooltip('prob',title='Prob GOP'),
               ]
-).properties(title=f'Median Seat Predicted with a {wave_name} Wave in {year_name}').configure_point(size=15,shape=hexagon,filled=True).configure_view(strokeWidth=0)
+).properties(title=f'Median Seat Predicted with a {wave_word} in {year_name}').configure_point(size=15,shape=hexagon,filled=True).configure_view(strokeWidth=0)
 
 #prep ranking diagrams
 st["PVI"] = st["PVI"].replace("R+0","EVEN")
@@ -195,15 +210,17 @@ dis_porp = st.sort_values("pl_abs",ascending=False)
 dis_porp = dis_porp.rename(columns = {'porp_text':'Distortion'})
 worst_porp = dis_porp[["State","PVI","Distortion"]].reset_index(drop=True).head(5)
 best_porp = dis_porp[["State","PVI","Distortion"]].reset_index(drop=True).tail(5)
+mod_phrase = f"Predicted stimates are based on a {model_name} model trained on data from {timeframe}. {mod_descrip}"
 
 
 
 ################### Display Code ###################
 # Display maps
 sl.write("""
-The model predicts:
+## Output
 """)
 sl.write(phrase)
+sl.write(mod_phrase)
 sl.altair_chart(maj, use_container_width=True)
 if year_name != 2022:
     sl.altair_chart(act, use_container_width=True)
@@ -229,12 +246,10 @@ sl.write("""
 sl.write(worst_dist)
 
 sl.write("""
-## Information
+## Data Notes
 ### Distortion Rating Methodology
 Baseline distortion models are based on a state's pvi in comparison to the average expected value of its districts.
 Other methods, like 538's Median Seat and Efficiency Gap metrics don't account for probabilities. For instance, if Texas, which is R+5, drew 38 R+5 districts, it would preform as perfectly balanced on almost every metric. However, 38 R+5 districts are predicted to yield 30 Republican-held seats, misrepresenting the large Democratic population. Because this method uses expected value, which shows substantial differences between R+1 and R+5, it would not assess the example map as fair.
-### Prediction Methodology
-For predictive models, logistic regression was used to build out the probabilites for each wave.
 ### 2022 Data
 ##### Sources
 46/50 states have been sourced from Dave's Redistricting, which draws in geographic data directly from state legislatures and applies APIs to report out Congressional districts.
@@ -242,11 +257,16 @@ For predictive models, logistic regression was used to build out the probabilite
     - MO and NH do not have complete maps, so the most likely outcome was selected.
 ##### Quirks
 Data for NY and KS is reflected as the most recently passed maps, though they are likely to be redrawn by state courts.
-Data pulled from 538 has a lower accuracy; their PVI ratings are not limited to Presidential elections and may be biased by ±2 PVI points.
+Data pulled from 538 has a lower accuracy; their PVI ratings are not limited to Presidential elections and may be incorrect by ±2 PVI points.
 """)
 
 sl.write("""
-########## Last Data Pull: 5.9.2022
-########## Authored by Xavier Adomatis for PPOL 561
-########## Contact email: xma2@georgetown.edu
+## Info
+Last Data Pull: 5.9.2022
+""")
+sl.write("""
+Authored by Xavier Adomatis for PPOL 561
+""")
+sl.write("""
+Contact email: xma2@georgetown.edu
 """)
